@@ -228,6 +228,7 @@ h6 {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 5px;
 }
 
 .header_log-in_btn {
@@ -239,7 +240,7 @@ h6 {
   color: white;
   font-weight: 500;
   cursor: pointer;
-  padding: 8px 15px;
+  padding: 8px 17px 8px 10px;
   border-radius: 8px;
   box-shadow: 0 4px 15px rgba(66, 0, 116, 0.4);
 }
